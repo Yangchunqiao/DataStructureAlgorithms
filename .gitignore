@@ -1,0 +1,21 @@
+
+**/target
+**/logs
+**/cmake-build-debug
+
+### IntelliJ IDEA ###
+**/.idea
+**/.gradle
+**/.settings
+**/.project
+**/*.iml
+
+
+
+### Node / Webpack ###
+**/node_modules/
+**/*.log
+
+### Front end build ###
+**/install/
+**/dist/
